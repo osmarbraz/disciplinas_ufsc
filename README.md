@@ -14,7 +14,7 @@ Disciplina cursada em 2017/2
  - Questão 1 - [ListaExercicio1_PAA - Questao1.docx](projeto_e_analise_de_algoritmos/ListaExercicio1_PAA%20-%20Questao1.docx) - [ListaExercicio1_PAA - Questao1.pdf](projeto_e_analise_de_algoritmos/ListaExercicio1_PAA%20-%20Questao1.pdf)
 	- Planilhas: [Exercicio1a.xlsx](projeto_e_analise_de_algoritmos/Exercicio1a.xlsx) & [Exercicio1b.xlsx](projeto_e_analise_de_algoritmos/Exercicio1b.xlsx)
  - Questão 2 - [ListaExercicio1_PAA - Questao2.docx](projeto_e_analise_de_algoritmos/ListaExercicio1_PAA%20-%20Questao2.docx) - [ListaExercicio1_PAA - Questao2.pdf](projeto_e_analise_de_algoritmos/ListaExercicio1_PAA%20-%20Questao2.pdf)
-	- Planilhas: [Exercicio2a.xlsx](projeto_e_analise_de_algoritmos/Exercicio2a.xlsx) & [Exercicio2b.xlsx](projeto_e_analise_de_algoritmos/Exercicio2b.xlsx) & [Exercicio2c.xlsx](projeto_e_analise_de_algoritmos/Exercicio2c.xlsx) & [Cálculos Auxiliares Complexidade.xlsx](projeto_e_analise_de_algoritmos/Cálculos Auxiliares%20Complexidade.xlsx)
+	- Planilhas: [Exercicio2a.xlsx](projeto_e_analise_de_algoritmos/Exercicio2a.xlsx) & [Exercicio2b.xlsx](projeto_e_analise_de_algoritmos/Exercicio2b.xlsx) & [Exercicio2c.xlsx](projeto_e_analise_de_algoritmos/Exercicio2c.xlsx) & [Cálculos Auxiliares Complexidade.xlsx](projeto_e_analise_de_algoritmos/Cálculos%20Auxiliares%20Complexidade.xlsx)
 	- Código Fonte: [FatonrialN.java](projeto_e_analise_de_algoritmos/FatorialN.java) ď & [NlogN.java](projeto_e_analise_de_algoritmos/NLogN.java)  
 Questão 3 - ListaExercicio1_PAA - Questao3.docx - ListaExercicio1_PAA - Questao3.pdf
 Questão 4 - ListaExercicio1_PAA - Questao4.docx - ListaExercicio1_PAA - Questao4.pdf
