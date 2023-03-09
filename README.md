@@ -11,7 +11,7 @@ Disciplina cursada em 2017/1
 ### INE410104-41000025DO/ME (20172) - Projeto e Análise de Algoritmos
 Disciplina cursada em 2017/2
  - Lista de Exercício 1: [ista1.pdf](projeto_e_analise_de_algoritmos/lista1.pdf)
- - Questão 1 - [ListaExercicio1_PAA-Questao1.docx](projeto_e_analise_de_algoritmos/ListaExercicio1_PAA - Questao1.docx) - [ListaExercicio1_PAA-Questao1.pdf](projeto_e_analise_de_algoritmos/ListaExercicio1_PAA - Questao1.pdf)
+ - Questão 1 - [ListaExercicio1_PAA - Questao1.docx](projeto_e_analise_de_algoritmos/ListaExercicio1_PAA%20-%20Questao1.docx) - [ListaExercicio1_PAA - Questao1.pdf](projeto_e_analise_de_algoritmos/ListaExercicio1_PAA%20-%20Questao1.pdf)
 	- Planilhas: [Exercicio1a.xlsx](projeto_e_analise_de_algoritmos/Exercicio1a.xlsx) & [Exercicio1b.xlsx](projeto_e_analise_de_algoritmos/Exercicio1b.xlsx)
  - Questão 2 - ListaExercicio1_PAA - Questao2.docx- ListaExercicio1_PAA - Questao2.pdf
 	- Planilhas: [Exercicio2a.xlsx](projeto_e_analise_de_algoritmos/Exercicio2a.xlsx) & [Exercicio2b.xlsx](projeto_e_analise_de_algoritmos/Exercicio2b.xlsx) & [Exercicio2c.xlsx](projeto_e_analise_de_algoritmos/Exercicio2c.xlsx) & [Cálculos Auxiliares Complexidade.xlsx](projeto_e_analise_de_algoritmos/Cálculos Auxiliares Complexidade.xlsx)
