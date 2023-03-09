@@ -10,7 +10,7 @@ Disciplina cursada em 2017/1
 
 ### INE410104-41000025DO/ME (20172) - Projeto e Análise de Algoritmos
 Disciplina cursada em 2017/2
- - Lista de Exercício 1: [ista1.pdf](projeto_e_analise_de_algoritmos/lista1.pdf)
+ - Lista de Exercício 1: [lista1.pdf](projeto_e_analise_de_algoritmos/lista1.pdf)
  - Questão 1 - [ListaExercicio1_PAA - Questao1.docx](projeto_e_analise_de_algoritmos/ListaExercicio1_PAA%20-%20Questao1.docx) - [ListaExercicio1_PAA - Questao1.pdf](projeto_e_analise_de_algoritmos/ListaExercicio1_PAA%20-%20Questao1.pdf)
 	- Planilhas: [Exercicio1a.xlsx](projeto_e_analise_de_algoritmos/Exercicio1a.xlsx) & [Exercicio1b.xlsx](projeto_e_analise_de_algoritmos/Exercicio1b.xlsx)
  - Questão 2 - [ListaExercicio1_PAA - Questao2.docx](projeto_e_analise_de_algoritmos/ListaExercicio1_PAA%20-%20Questao2.docx) - [ListaExercicio1_PAA - Questao2.pdf](projeto_e_analise_de_algoritmos/ListaExercicio1_PAA%20-%20Questao2.pdf)
@@ -24,6 +24,6 @@ Disciplina cursada em 2017/2
 	- [Planilha:Exercicio7b.xlsx](projeto_e_analise_de_algoritmos/Exercicio7b.xlsx)
  - Questão 8 - [ListaExercicio1_PAA - Questao8.docx](/projeto_e_analise_de_algoritmos/ListaExercicio1_PAA%20-%20Questao8.docx) - [ListaExercicio1_PAA - Questao8.pdf](projeto_e_analise_de_algoritmos/ListaExercicio1_PAA%20-%20Questao8.pdf)
 	- Código Fonte: https://github.com/osmarbraz/filtromediana_n_log_n & https://github.com/osmarbraz/filtromediana_n
- - Questão 9 - [ListaExercicio1_PAA - Questao9.docx ]()- [ListaExercicio1_PAA - Questao9.pdf]()
+ - Questão 9 - [ListaExercicio1_PAA - Questao9.docx ](projeto_e_analise_de_algoritmos/ListaExercicio1_PAA%20-%20Questao9.docx)- [ListaExercicio1_PAA - Questao9.pdf](projeto_e_analise_de_algoritmos/ListaExercicio1_PAA%20-%20Questao9.pdf)
 	- Código Fonte: https://github.com/osmarbraz/filtromediana_imagem
  - Exercícios capítulo 1 e 2 Cormen -  [Exercicio_Cormen.docx](projeto_e_analise_de_algoritmos/Exercicio_Cormen.docx)
